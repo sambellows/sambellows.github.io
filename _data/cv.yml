@@ -61,13 +61,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - >
+          Acousctical Society of America POMA Student Paper Competition Winner   
+              <a href="https://www.buzzsprout.com/1537384?client_source=large_player&iframe=true&referrer=https://www.buzzsprout.com/1537384.js?container_id=buzzsprout-large-player-1537384&player=large#"
+                 target="_blank">(listen to podcast episode here: "How does a musician’s body affect what they play?")</a> </li>
+
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - Inaugural recipient of the <a href="https://acoustics.byu.edu/strongfellowship" target="_blank">
+                 William James and Charlene Fuhriman Strong Family Musical Acoustics Endowed Fellowship</a> </li> 
+
 
 - title: Academic Interests
   type: nested_list
