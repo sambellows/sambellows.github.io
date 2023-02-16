@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: RFZ Room Optimization
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/projects/rfz_optimization.gif
 importance: 1
 category: work
 ---
