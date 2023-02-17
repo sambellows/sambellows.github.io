@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-10
 inline: true
 ---
 
-A simple inline announcement.
+Abstracts for Acoustical Society of America Chicago 2023 on gamelan gongs and RFZ rooms accepted for presentation.
