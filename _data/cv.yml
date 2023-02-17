@@ -3,40 +3,36 @@
   contents:
     - name: Full Name
       value: Samuel D. Bellows
+    - name: Programing Languages
+      value: MATLAB/Octave, Python, C++
+    
 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate
+    - title: Ph.D. Candidate
       institution: Brigham Young University, Provo UT
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Directivity Measurements, Applications, and Modeling
     - title: B.S. Applied Physics
       institution: Brigham Young University, Provo UT
       year: 2019
       description:
         - Minors in Music, Italian.
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Musical Acoustics Intern
       institution: Yamaha Corporation, Hamamatsu, Japan
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - F-hole design optimization
+        - Developed Octave code to calculate end correction of arbitrarily-shaped apertures 
+        
+
 
     - title: Exchange Student
       institution: Yonsei University, Seoul, South Korea 
@@ -47,12 +43,15 @@
       institution: Anhert-Feistel Media Group (AFMG), Berlin, Germany
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Designed and implemented binaural auralizaiton software in C++ based on room echograms produced by EASE.
+        - Assisted with room acoustical measurements. 
 
     - title: Intern
       institution: Siena Jazz, Siena, Italy
-      year: 1917-1933
+      year: 2017
+      description:
+      - Designed a ear-training webpage for students.
+      - Catalogued and assorted records in school library. 
 
 
 
