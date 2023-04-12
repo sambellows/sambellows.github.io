@@ -1,0 +1,31 @@
+close all; clear; clc;
+
+
+
+
+a = 1;
+z0 = 1;
+N = 10;
+k = 2;
+
+
+r = linspace(a, 4 * a);
+phi = linspace(0, 2 * pi);
+
+[R, P] = ndgrid(r, phi);
+T = pi / 2 * ones(size(R));
+[X, Y, Z] = ndgrid(R, T, P);
+
+cnm = rigid_sphere_point_source_efc(N, k, a, z0, 1, pi / 2, 0);
+
+pressure = hels_spherical_expand(cnm, k, R, T, P);
+
+
+for t = 1:60
+
+    surf(X, Y, Z, real(pressure * exp(1j * t / 360)))
+    shading interp
+    view(0, 90);
+
+end
+

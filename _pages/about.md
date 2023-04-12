@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://acoustics.byu.edu/overview'>Acoustics Research Group, Brigham Young Unviersity</a>. Seoul, South Korea. samuel.bellows11@gmail.com
+subtitle: <a href='https://acoustics.byu.edu/overview'>Acoustics Research Group, Brigham Young Unviersity</a>. Provo, USA. samuel.bellows11@gmail.com
 
 profile:
   align: right
