@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords:  sam-bellows,  # add your own keywords or leave empty
+keywords:  bellows, samuel, acoustics, directivity, sound, vibrations, animations # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -114,10 +114,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-#blog_name: al-folio # blog_name will be displayed in your blog page
-#blog_nav_title: Acoustics# your blog must have a title for it to be displayed in the nav bar
-#blog_description: a simple whitespace theme for academics
-#permalink: /blog/:year/:title/
+blog_name: acoustics  # blog_name will be displayed in your blog page
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: sound & vibration
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -242,7 +242,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['room-acoustics', 'structural-vibrations', 'directivity', 'recording', 'spatial-audio'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
