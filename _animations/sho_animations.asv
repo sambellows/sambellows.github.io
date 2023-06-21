@@ -1,0 +1,20 @@
+close all; clear; clc;
+
+
+x0 = 1;
+v0 = 1;
+
+t = linspace(0, 10, 1e3);
+
+omega0 = 2;
+
+x = x0 * cos(omega0 * t) + v0 / omega0 * sin(omega0 * t);
+
+
+figure
+
+s
+plot(t, x);
+grid on
+xlabel('Time (s)');
+ylabel('Displacement (
