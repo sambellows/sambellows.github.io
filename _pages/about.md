@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://acoustics.byu.edu/overview'>Acoustics Research Group, Brigham Young Unviersity</a>. Provo, USA. samuel.bellows11@gmail.com
+subtitle: samuel.bellows11 [at] gmail.com
 
 profile:
   align: right
@@ -18,9 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. candidate working in the <a href="https://acoustics.byu.edu/overview" target="_blank">Acoustics Research Group</a> at Brigham Young University's 
-department of Physics and Astronomy. My primary area of research entails studying sound radiation from musical instruments through directivity measurements. Our research group is currently 
-collecting data to generate a directivity database for use in improving concert hall acoustics, microphone placement, and sound synthesis of musical 
-instruments. Outside of musical acoustics, I enjoy studying about and applying techniques in array signal processing, applied mathematics, and numerical 
-methods. My research advisor is <a href="https://physics.byu.edu/department/directory/leishman"  target="_blank">Dr. Timothy Leishman.</a> 
+I am currently a post-doctoral researcher at the <a href="http://www.dalembert.upmc.fr/lam/" target="_blank">Lutheries-Acoustique-Musique group at the Institut Jean le Rond d'Alembert at the Sorbonne University in Paris, France. 
+
+I completed my PhD working in the <a href="https://acoustics.byu.edu/overview" target="_blank">Acoustics Research Group</a> at Brigham Young University's 
+department of Physics and Astronomy, under <a href="https://physics.byu.edu/department/directory/leishman"  target="_blank">Dr. Timothy Leishman.</a> . My primary area of research entails studying sound radiation from musical instruments through directivity measurements. Our research group is currently collecting data to generate a directivity database for use in improving concert hall acoustics, microphone placement, and sound synthesis of musical instruments. Outside of musical acoustics, I enjoy studying about and applying techniques in array signal processing, applied mathematics, and numerical methods. 
+
+2013 - 2019 : B.S. in Physics, Brigham Young University
+2019 - 2023: PhD in Physics, Brigham Young University
+2023 - present: post-doctoral researcher at Sorbonne University
               
+# <a href='https://acoustics.byu.edu/overview'>Acoustics Research Group, Brigham Young University</a>.
