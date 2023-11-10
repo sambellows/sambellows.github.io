@@ -2,13 +2,13 @@
 layout: page
 title: image source methods
 description: 
-img: assets/img/animations/point_source_directivity.gif
+img: assets/img/animations/image_source_intro.gif
 importance: 4
 category: animations
 ---
 
 
-One method for determing the radiated sound field interacting with boundaries is by using image source techniques. Image source methods judiciously place "fictitous" sources outside the domain to create the desired boundary conditions. For example, to model the effects of a single, rigid-walled boundary, one can place an image source an equal distance from the boundary as the original source. There supposition 
+One method for determing the radiated sound field interacting with boundaries is by using image source techniques. Image source methods judiciously place "fictitous" sources outside the domain to create the desired boundary conditions. For example, to model the effects of a single, rigid-walled boundary, one can place an image source an equal distance from the boundary as the original source. Superposing both waves gives the desired field.
 
 
 <div class="row">
@@ -24,7 +24,7 @@ One method for determing the radiated sound field interacting with boundaries is
     Method of images for a single boundary. Left: traveling wave unimpeded by boundary. Center: traveling wave and its image source. Right: Superposition of incident and image source's fields. 
 </div>
 
-The method works for multiple boundaries as well. However, even in the 1-dimensional case, two parallel boundaries require and inifinte number of image source to account for the infinite number of reflections as the wave travels between the two boundaries. 
+The method works for multiple boundaries as well. However, even in the 1-dimensional case, two parallel boundaries require an inifinte number of image sources to account for the infinite number of reflections as the wave travels between the two boundaries. 
 
 <div class="row">
     <div class="col">
@@ -36,7 +36,7 @@ The method works for multiple boundaries as well. However, even in the 1-dimensi
     </div>
 </div>
 <div class="caption">
-    Method of images for a two boundaries using two image sources.
+    Method of images for a two boundaries.
 </div>
 
 
