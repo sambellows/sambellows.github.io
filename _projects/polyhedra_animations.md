@@ -1,6 +1,6 @@
 ---
 layout: page
-title: rpl loudspeaker directivity
+title: rpl directivity patterns
 description: 
 img: assets/img/animations/dodec_directivity.gif
 importance: 4

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: rod vibrations
-description: mode shapes of rod
+title: rod bending modes
+description: 
 img: assets/img/animations/rod_demo.gif
 importance: 4
 category: animations

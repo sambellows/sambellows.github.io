@@ -1,7 +1,7 @@
 ---
 layout: page
 title: radiation from spheres
-description: time-harmonic radiation from rigid spheres
+description: 
 img: assets/img/animations/point_source.gif
 importance: 4
 category: animations
