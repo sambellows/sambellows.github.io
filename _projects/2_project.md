@@ -1,7 +1,7 @@
 ---
 layout: page
-title: rpl design
-description: loudspeaker design
+title: rpl design and optimization
+description: loudspeaker design 
 img: assets/img/animations/dodec_directivity.gif
 importance: 2
 category: work
@@ -32,4 +32,6 @@ The motivating design concept is that by distributing several loudspeaker driver
 <div class="caption">
     Comparison between a single driver loudspeaker and an RPL over frequency. 
 </div>
+
+However, the frequency at which the RPL deviates from omnidirectionality depends on the loudspeaker radius and driver size. My current research studies how one can optimize these parameters to increase the range of omnidirectionality of RPLs. 
 

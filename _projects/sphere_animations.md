@@ -1,6 +1,6 @@
 ---
 layout: page
-title: radiation from spheres
+title: radiation from spheres 
 description: 
 img: assets/img/animations/point_source.gif
 importance: 4
