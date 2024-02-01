@@ -37,7 +37,7 @@ Later, Aarts and Janssen showed that the Legendre polynomial expansion coefficie
         {% include figure.html path="assets/img/projects/point_source_center.jpg" title="dodec" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    Sound radiation from a point source on a sphere and its equivalent points source at its acoustic center. 
+    Sound radiation from a point source on a sphere and its equivalent point source at its acoustic center. 
 </div>
 
 
