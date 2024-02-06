@@ -11,11 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Candidate
+    - title: Ph.D.
       institution: Brigham Young University, Provo UT
       year: 2023
       description:
         - Directivity Measurements, Applications, and Modeling
+
+    - title: Exchange Student
+      institution: Yonsei University, Seoul, South Korea 
+      year: 2021
+
+
     - title: B.S. Applied Physics
       institution: Brigham Young University, Provo UT
       year: 2019
@@ -25,6 +31,16 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Sorbonne University, Paris, France
+      year: 2023
+
+    - title: Consultant
+      institution: Institute for Scientific Research in Music
+      year: 2023
+      description:  
+        - Physical modelling of the trombone
+      
     - title: Musical Acoustics Intern
       institution: Yamaha Corporation, Hamamatsu, Japan
       year: 2022
@@ -33,10 +49,6 @@
         - Developed Octave code to calculate end correction of arbitrarily-shaped apertures 
         
 
-
-    - title: Exchange Student
-      institution: Yonsei University, Seoul, South Korea 
-      year: 2021
 
 
     - title: Architectural Acoustics Intern
