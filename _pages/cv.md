@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: 2023_April_CV.pdf
+cv_pdf: CV_Samuel_Bellows.pdf
 ---
