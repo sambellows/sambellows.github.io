@@ -3,7 +3,7 @@ layout: page
 title: gamelan gong acoustics
 description: musical acoustics
 img: assets/img/publication_preview/gong.jpg
-importance: 3
+importance: 4
 category: work
 ---
 

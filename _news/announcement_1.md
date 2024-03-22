@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-10
+date: 2024-03-16
 inline: true
 ---
 
-Abstracts for Acoustical Society of America Chicago 2023 on gamelan gongs and RFZ rooms accepted for presentation.
+"Combining multiple sparse measurements with reference data regularization to create spherical directivities applied to voice data" published in Acta Acustica. 

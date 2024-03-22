@@ -3,7 +3,7 @@ layout: page
 title: rpl design and optimization
 description: loudspeaker design 
 img: assets/img/animations/dodec_directivity.gif
-importance: 2
+importance: 5
 category: work
 ---
 
