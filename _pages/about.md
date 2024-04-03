@@ -23,7 +23,10 @@ I am currently a post-doctoral researcher at the <a href="http://www.dalembert.u
 I completed my PhD working in the <a href="https://acoustics.byu.edu/overview" target="_blank">Acoustics Research Group</a> at Brigham Young University's 
 department of Physics and Astronomy, under <a href="https://physics.byu.edu/department/directory/leishman" target="_blank">Dr. Timothy Leishman</a>. My primary area of research entails studying sound radiation from musical instruments through directivity measurements. Our research group is collecting data to generate a <a href="https://scholarsarchive.byu.edu/directivity/" target="_blank"> directivity database </a> for use in improving concert hall acoustics, microphone placement, and sound synthesis of musical instruments. Outside of musical acoustics, I enjoy studying about and applying techniques in array signal processing, applied mathematics, and numerical methods.   
 
-2013 - 2019 : B.S. in Physics, Brigham Young University  
-2019 - 2023: PhD in Physics, Brigham Young University  
-    dissertation: <a href="https://scholarsarchive.byu.edu/etd/10021/" target="_blank">Acoustic Directivity: Advances in Acoustic Center Localization, Measurement Optimization, Directional Modeling, and Sound Power Spectral Estimation</a>  
-2023 - present: post-doctoral researcher, Sorbonne Université 
+
+<b>2023 - Present</b>: post-doctoral researcher, Sorbonne Université <br>
+<b>2019 - 2023</b>: PhD in Physics, Brigham Young University  
+   dissertation: <a href="https://scholarsarchive.byu.edu/etd/10021/" target="_blank">Acoustic Directivity: Advances in Acoustic Center Localization, Measurement Optimization, Directional Modeling, and Sound Power Spectral Estimation</a> <br>
+<b>2013 - 2019</b>: B.S. in Physics, Brigham Young University  
+
+

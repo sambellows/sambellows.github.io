@@ -3,7 +3,7 @@ layout: page
 title: acoustic center
 description: sound radiation
 img: assets/img/publication_preview/acoustic_center_low.png
-importance: 1
+importance: 4
 category: work
 ---
 
