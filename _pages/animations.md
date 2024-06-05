@@ -2,10 +2,10 @@
 layout: page
 title: animations
 permalink: /animations/
-description: acoustics animations
+description:  
 nav: true
 nav_order: 3
-display_categories: [animations]
+display_categories: [acoustics animations, signal processing animations]
 horizontal: false
 ---
 

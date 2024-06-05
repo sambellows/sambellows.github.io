@@ -4,7 +4,7 @@ title: image source methods
 description: 
 img: assets/img/animations/image_source_intro.gif
 importance: 4
-category: animations
+category: acoustics animations
 ---
 
 

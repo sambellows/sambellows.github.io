@@ -4,7 +4,7 @@ title: rod bending modes
 description: 
 img: assets/img/animations/rod_demo.gif
 importance: 4
-category: animations
+category: acoustics animations
 ---
 
 A "rod" is an elastic solid whose cross-sectional area is very small relative to its length. A vibrational model constrained to one dimension serves as a good approximation to its motion. 

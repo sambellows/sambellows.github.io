@@ -4,7 +4,7 @@ title: source directivity
 description: 
 img: assets/img/animations/point_source_directivity.gif
 importance: 4
-category: animations
+category: acoustics animations
 ---
 
 

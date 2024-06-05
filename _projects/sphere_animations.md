@@ -4,7 +4,7 @@ title: radiation from spheres
 description: 
 img: assets/img/animations/point_source.gif
 importance: 4
-category: animations
+category: acoustics animations
 ---
 
 

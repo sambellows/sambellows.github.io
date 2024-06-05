@@ -4,7 +4,7 @@ title: membrane  vibrations
 description: 
 img: assets/img/animations/circular_plate_22.gif
 importance: 4
-category: animations
+category: acoustics animations
 ---
 
 
