@@ -30,6 +30,11 @@
 
 - title: Work Experience
   type: time_table
+  contents: 
+    - title: Assistant Professor (Lecturer)
+      institution: University of Utah Asia Campus
+      year: 2024
+
   contents:
     - title: Postdoctoral Researcher
       institution: Sorbonne University, Paris, France

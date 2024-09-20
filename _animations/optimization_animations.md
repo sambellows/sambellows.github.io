@@ -2,7 +2,7 @@
 layout: page
 title: optimization methods
 description: 
-img: assets/img/animations/GradientDescent.gif
+img: assets/img/animations/optimization_icon.gif
 importance: 6
 category: signal processing animations
 ---
