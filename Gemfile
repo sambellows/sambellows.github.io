@@ -14,6 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
+    gem 'uri'
     #gem 'wdm', '>= 0.1.0' if Gem.win_platform?
     # gem 'mini_racer'
     gem 'unicode_utils'
