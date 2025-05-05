@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: university courses 
 nav: true
-display_categories: [electrical engineering]
+display_categories: [electrical engineering, physics]
 nav_order: 3
 ---
 
