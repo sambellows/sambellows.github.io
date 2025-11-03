@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Physics 1
-description: PHYS2210
-img: assets/img/teaching/physics1.jpg
+title: Signals and Circuits
+description: ECE2240
+img: assets/img/teaching/signalscircuits.jpg
 importance: 4
-category: physics
+category: electrical engineering
 ---
 
-This is a calculus based introduction to physics. Course topics include kinematics, dynamics, conservation laws, rigid body motion, oscillations and waves. 
+This course teaches students to analyze linear circuits with passive elements including resistors, inductors, and capacitors. Topics include RC, RL, and RLC circuits, Laplace transforms and s-domain circuit analysis, phasors and AC analysis, and Fourier Series. 
