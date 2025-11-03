@@ -7,13 +7,15 @@ importance: 4
 category: physics
 ---
 
-<h3>Course Syllabus:</h3>
+
+<h3>Physics for Scientists and Engineers I</h3>
+<h5>Course Syllabus:</h5>
 <a href="/assets/pdf/syllabi/Syllabus PHYS 2210.pdf" target="_blank">Physics I Syllabus</a><br>
 <br>
 
 This is a calculus based introduction to physics. Course topics include kinematics, dynamics, conservation laws, rigid body motion, oscillations and waves. 
 
 
-<h3>Handouts:</h3>
+<h5>Handouts:</h5>
 <a href="/assets/pdf/Physics I.pdf" target="_blank">Physics I Equation Sheet </a><br>
 <br>

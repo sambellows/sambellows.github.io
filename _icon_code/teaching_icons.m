@@ -107,3 +107,33 @@ exportgraphics(gcf, '../assets/img/teaching/physics1.jpg');
 
 
 
+%% Physics II
+
+
+color = [88, 166, 255] / 255;
+
+
+close all;
+figure('units', 'pixels', 'position', [20, 20, 400, 400]);
+grid on
+axis off
+hold off
+
+theta = linspace(0, 2 * pi, 1e3);
+
+r0 = [0.2, 0.5, 1, 2, 5, 10, 50]';
+r = r0 .* cos(theta).^2;
+
+[x, y] = polar2cartesian(r, theta);
+
+plot(x', y', '-', 'color', color, 'LineWidth', 1.2);
+hold on
+plot([-1, 1, 1, -1, -1], [-1, -1, 1, 1, -1], 'k', 'LineWidth', 2)
+ylim([-1, 1]);
+xlim([-1, 1]);
+hold off
+axis off
+
+
+exportgraphics(gcf, '../assets/img/teaching/physics2.jpg');
+
