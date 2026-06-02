@@ -15,6 +15,7 @@ category: physics
 This course is a calculus-based introductory physics course on electromagnetism. Topics include Coulomb's law, Gauss' Law, Circuits, Ampere's Law, and electromagnetic waves. 
 
 
+
 <h5>Handouts:</h5>
 <a href="/assets/pdf/Physics II.pdf" target="_blank">Physics II Equation Sheet </a><br>
 <br>
